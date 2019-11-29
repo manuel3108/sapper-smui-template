@@ -44,3 +44,4 @@ If you want to install further components, just do
 ```bash
 npm install --save-dev @smui/component-name
 ```
+**Be sure to add `--save-dev` or `-D` to add those components as dev-Dependencies. They will not work if you install them as normal dependencies.**
