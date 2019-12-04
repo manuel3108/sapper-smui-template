@@ -2,6 +2,7 @@
 
 The default [Sapper](https://github.com/sveltejs/sapper) template using webpack, with included support for [SMUI](https://github.com/hperrin/svelte-material-ui).
 
+If you don't want Typescript support, have a look at [sapper-smui-typescript-template](https://github.com/manuel3108/sapper-smui-typescript-template)
 
 ## Getting started
 
