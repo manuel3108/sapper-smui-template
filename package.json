@@ -14,7 +14,7 @@
   "dependencies": {
     "compression": "^1.7.1",
     "polka": "next",
-    "sirv": "^1.0.1"
+    "sirv": "^1.0.5"
   },
   "devDependencies": {
     "@smui/button": "^1.0.0-beta.21",
